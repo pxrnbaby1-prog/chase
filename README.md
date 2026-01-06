@@ -8,7 +8,10 @@ A demo application demonstrating a react-native mobile banking.
 
 ## Get Started
 
-If you want to setup this repository locally follow the next commands:
+If you want to setup this repository locally follow the next commands:gh repo clone razvangeangu/chase
+cd chase
+yarn
+yarn start
 
 ```sh
 gh repo clone razvangeangu/chase
